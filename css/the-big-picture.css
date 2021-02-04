@@ -10,6 +10,13 @@ body {
   background-size: cover;
   -o-background-size: cover;
 }
+.hdspage {
+  background: url('../res/bg_hds.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
@@ -21,7 +28,22 @@ p {
   margin-bottom: 1rem;
 }
 
+button {
+  width: 64px;
+  height: 64px;
+}
+
 .bluewhiteshadow
 {
   text-shadow: 5px 0px 20px rgb(207, 240, 255);
+}
+
+.redshadow
+{
+  text-shadow: 5px 0px 20px rgb(255, 0, 0);
+}
+
+.yellowshadow
+{
+  text-shadow: 5px 0px 20px rgb(255, 237, 179);
 }
