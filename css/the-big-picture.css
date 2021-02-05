@@ -105,6 +105,10 @@ li {
   height: 64px;
 }
 
+.navbar-img{
+  max-height: 26px;
+  padding-right: 12px;
+}
 .glass-shadow
 {
   text-shadow: 0px 2px 20px rgb(36, 36, 36);
