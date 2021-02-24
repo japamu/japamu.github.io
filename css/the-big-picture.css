@@ -112,7 +112,7 @@ li {
 }
 .glass-shadow
 {
-  text-shadow: 0px 2px 20px rgb(36, 36, 36);
+  text-shadow: 0px 2px 20px rgb(36, 36, 36), 0px 2px 30px rgb(0, 0, 0);
 }
 
 .bluewhiteshadow
